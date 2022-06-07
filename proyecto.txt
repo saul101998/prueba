@@ -1,1 +1,2 @@
 estoy aprendiento git
+estoy modificando el archivo
