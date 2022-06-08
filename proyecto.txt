@@ -1,3 +1,3 @@
 estoy aprendiento git
-estoy modificando el archivo
+estoy actualizado el archivo
 esta linea es de la rama1
